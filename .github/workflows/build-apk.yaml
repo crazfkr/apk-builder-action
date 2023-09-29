@@ -7,7 +7,7 @@ on:
       repository:
         description: "Git repository URL"
         required: true
-        default: "https://github.com/AhMyth/AhMyth-Android-RAT/tree/master/AhMyth-Client"
+        default: "https://github.com/android/sunflower"
       jdkVersion:
         description: "OpenJDK version to use: 8 / 11 / 17 etc."
         required: false
